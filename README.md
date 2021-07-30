@@ -1,7 +1,7 @@
 # Day 2 of the FREE LIVE 5-Day Coding Challenge 🚀🔥 
 
 
-![Web Development Illustration by Graphic Design for MindInventory on Dribbble](https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif) 
+![image](https://user-images.githubusercontent.com/70423522/127582853-68f61fe3-344f-4fb2-9ad4-337d0815af28.png)
 
 🎟️ Buy your tickets for the JavaScript Tour 2021: [https://cleverprogrammer.io/live-even...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWp6OTMzLVA3QXMyY2RMQUJlQU9NVWFyXzRDQXxBQ3Jtc0tsSjdyX1doR1Z3TUQzT25BNlVpWEkxVS1TMl96Y2VJLUk3TzhGN0tNRHFQRDQ0d0xmVklTZnAyZnprRGF4SDV2N1ZFWV9CTERQWmRTY0VacVNOdDB2SzNrNWk4VWZZcjhoMlloYmtVelgyN1RBV19Vcw&q=https%3A%2F%2Fcleverprogrammer.io%2Flive-event-ch2) 
 
